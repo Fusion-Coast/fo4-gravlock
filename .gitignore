@@ -1,0 +1,23 @@
+# Build outputs
+*.pex
+*.ba2
+build/
+dist/
+
+# FO4Edit / xEdit
+FO4Edit Backups/
+FO4Edit Cache/
+*.bak
+*.esp.save.*
+*.esm.save.*
+
+# Creation Kit
+CreationKit*.log
+*.log
+
+# Editors / OS
+.vscode/*
+!.vscode/settings.json
+.DS_Store
+Thumbs.db
+desktop.ini
